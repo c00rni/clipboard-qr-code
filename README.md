@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qrcode-on-react-with-copy-to-clipboard-9WbQM4pg-x](https://www.frontendmentor.io/solutions/qrcode-on-react-with-copy-to-clipboard-9WbQM4pg-x)
+- Live Site URL: [https://qrcodepoc.netlify.app/](https://qrcodepoc.netlify.app/)
 
 ### What I learned
 
